@@ -1,8 +1,8 @@
-  "version": "",
+  "version": "1.0.0",
   "notes": "New version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTHozZCtMRFpxZ3ZxNHo2ZDBtRXc5SytpQWhuZmR4RGhjbzdmQzF0TXVBLzR0L2tvOGFHa1AwYXpIb1Q1VzAxb1Bld3hUQzk5ZjFIbDF4WVRlN1B5cXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4OTAxMTg2CWZpbGU6QnVpbGRZYWFyXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApSVWJLOXVhY245dkxwUGtUYmozcElwVTNlTHNVNlhXenlVZFhyZHFYUlNnTzM2NUF3bm5BKzE0dmo2cnVEUThTNStCT2x6K3BDM1NhbnFIMTFnZWxBdz09Cg",
       "url": ""
     }
   }
