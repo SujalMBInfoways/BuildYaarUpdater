@@ -1,9 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0",
   "notes": "New version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTDNuSkNwUnRFRTV0STM1TlJvY1luMlRGTkMxK1F2UmMrK3RMaXN1czdlUjBtcWdMaFd0TjFBZmxCeFp3MXpkd1hFVFl6aEJYNXJnS25rVDNkeFpadXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzYyODMxCWZpbGU6QnVpbGRZYWFyXzAuMC4xX3g2NC1zZXR1cC5uc2lzLnppcApQbEZzZjI4azIvL0VMNVZrM0h1Nk01c3huYXdYcTlNL3plWmFZTzZ4RTJVOG9MQW9Nc09iLzFUaDRqYVF3MGY4R3R3UU9UZmVvd2h6bGFOc3JGczlCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTCtHdFFpK0NCaVhKQjArS09qUWl4b3hhVEMyN3hoekVaTTRObTBkTmg5NkFoUFh2L1gzTGxKWWl6T0pHOW9qYmNYU1pkY05Tb1dmaXliSGtHR0k4WlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NzY0MDAzCWZpbGU6QnVpbGRZYWFyXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApYb0R0LzFEWmdHVEdXQmFoVzBIZkhDK3hIUmt2WFFkL0F2MkxoUm5LTVMyZERwL2lCdXQ2OXZvUmt0b0dpeE12QXhzQ09EZDlubW54dGY0M3c2OEdEUT09Cg==",
       "url": "https://github.com/SujalMBInfoways/BuildYaarUpdater/raw/main/BuildYaar_0.0.1_x64-setup.nsis.zip"
     }
   }
