@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.1",
   "notes": "New version",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTHpwck0welo0dFZjNjIrMElBUFhVdjFLVkpTQW4zYVBWdjA1TWNHZjNkODEwQi82b0ZEKzc5cmpDMzdubGZHeHlDRUd1NWZEY01OZnRWRVh1dEd4WXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMDU3MTcxCWZpbGU6QnVpbGRZYWFyXzAuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAp3ajREL0lDK0V1OU5qREpLTE5KM3Jkam5uNVNHMlFLS2hLMVgyZmlReWhQZnIxMm9qMW03NmdaNkszZEhraWJNTTRScEVtRHpJYjJOZUU3ZjRVSzJCUT09Cg==",
-      "url": "https://github.com/SujalMBInfoways/BuildYaarUpdater/raw/main/BuildYaar_1.0.0_x64-setup.exe"
+      "url": "https://github.com/SujalMBInfoways/BuildYaarUpdater/raw/main/BuildYaar_0.0.1_x64-setup.nsis.zip"
     }
   }
 }
